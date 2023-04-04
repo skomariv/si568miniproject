@@ -1,4 +1,4 @@
-# Mini Project: Generating a List of Health Promoting Behaviors Based on Personal Health History
+# Generating a List of Health Promoting Behaviors Based on Personal Health History
 
 # Introduction
 
